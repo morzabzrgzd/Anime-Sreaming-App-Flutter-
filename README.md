@@ -1,4 +1,7 @@
-# anime_streaming_app
+# Anime Streaming App
+
+![Dribbble](https://github.com/morzabzrgzd/Anime-Sreaming-App-Flutter-/assets/87581799/9c7b1483-2ffd-4fc9-89da-f31976e15bd6)
+
 
 A new Flutter project.
 
